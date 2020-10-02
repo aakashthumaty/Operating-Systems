@@ -1,0 +1,16 @@
+This test is not passable.
+
+If you have passed every test other than
+this one, email reprice@cs.unc.edu and Robert will hand-grade your
+submission for this assignment.
+
+If you pass hand-grading, your last attempt will be overwritten with a
+passing submission and your Grades.txt file should be updated
+reflecting your passing submission. You will not receive an email
+response if you pass hand-grading.
+
+If you do not pass hand-grading, Robert will email you
+explaining why you did not pass.
+
+Feel free to badger Robert if your Grades.txt file is unchanged and
+you have received no follow-up email after 48 hours.
